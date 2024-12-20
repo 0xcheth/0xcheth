@@ -9,26 +9,25 @@
 
 </div>
 
-## About me:
+## 🧙🏾‍♂️ About me:
 
-Geneticist in training with an avid interest in finding out why we age like we do and how to slow it down. 
+Geneticist in training (Bsc completed and currently undergoing my Masters 😳) with an avid interest in finding out why we age like we do and how to slow it down. 
 
 Other than that I do a bit of coding as a hobby. Pretty jealous of my friends who managed to land software dev jobs straight out of uni though >:) 
 
 Currently stuggling to navigate through Genomics and landing relavant job roles no plans for a career change though!
 
-  <h2 style="border-top: none;">Socials:</h2>
-
-<div style="display: flex; gap: 15px; margin-bottom: 15px;">
+  <h2 style="border-top: none;">📱Socials:</h2>
+Find me on linkedin or Instagram!
+<div style="display: flex; gap: 15px; margin-bottom: 15px; margin-top:15px;">
   <a href="https://www.instagram.com/cheth17?igsh=MTFvdHR2aXI1emV0MA==" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" style="background:transparent; border:none;">
-  </a>
-  <a href="https://www.linkedin.com/in/0xcheth/" target="_blank">
+  </a><a href="https://www.linkedin.com/in/0xcheth/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" style="background:transparent; border:none;">
   </a>
 </div>
 
-## Skills:
+## 🖥️ Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -52,11 +51,11 @@ Currently stuggling to navigate through Genomics and landing relavant job roles 
 
 <div class='centered'>
 
-  #### or find my full resume [here](https://0xcheth.com/aboutme/) :)
+  #### Note: This is excluding all my geneticists skills but you can find my full resume [here](https://0xcheth.com/aboutme/)! 😉
 
 </div>
 
-## Github Stats:
+## 🗓️ Github Stats:
 
 ![](https://github-profile-trophy.vercel.app/?username=0xcheth&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
@@ -72,31 +71,4 @@ Currently stuggling to navigate through Genomics and landing relavant job roles 
 #### Visitors
 ![](https://visitcount.itsvg.in/api?id=0xcheth&icon=7&color=12)
 </div>
-ps: the profile views are mostly bots xD
-<style>
-
-.centered {
-	display: flex;
-	justify-content: center; 
-	align-items: center; 
-	text-align: center; 
-	flex-direction: row;
-}  
-
-h1, h2 {
-  border-bottom: none; 
-  box-shadow: none;
-  border-top: 1px solid;
-  padding-top: 15px;   
-}
-
-a {
-    margin-top: 0;
-    color: #7289da;
-}
-
-p {
-    font-size: 20px;
-}
-
-</style>
+ps: the profile views are mostly bots 🐒
