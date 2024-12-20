@@ -9,23 +9,23 @@
 
 </div>
 
-## 🧙🏾‍♂️ About me:
+## 🧙🏾‍♂️ About me: 
 
-Geneticist in training (Bsc completed and currently undergoing my Masters 😳) with an avid interest in finding out why we age like we do and how to slow it down. 
+Geneticist in training (Bsc and ongoing my Masters 😳) with an avid interest in finding out why we age like we do and how to slow it down. 
 
 Other than that I do a bit of coding as a hobby. Pretty jealous of my friends who managed to land software dev jobs straight out of uni though >:) 
 
 Currently stuggling to navigate through Genomics and landing relavant job roles no plans for a career change though!
 
-  <h2 style="border-top: none;">📱Socials:</h2>
+## 📱Socials:
 Find me on linkedin or Instagram!
-<div style="display: flex; gap: 15px; margin-bottom: 15px; margin-top:15px;">
+
   <a href="https://www.instagram.com/cheth17?igsh=MTFvdHR2aXI1emV0MA==" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" style="background:transparent; border:none;">
   </a><a href="https://www.linkedin.com/in/0xcheth/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" style="background:transparent; border:none;">
   </a>
-</div>
+
 
 ## 🖥️ Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
