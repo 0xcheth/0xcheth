@@ -51,7 +51,7 @@ Find me on linkedin or Instagram!
 
 <div class='centered'>
 
-  #### Note: This is excluding all my geneticists skills but you can find my full resume [here](https://0xcheth.com/aboutme/)! 🥼
+  #### Note: This is excluding all my geneticist skills but you can find my full resume [here](https://0xcheth.com/aboutme/)! 🥼
 
 </div>
 
