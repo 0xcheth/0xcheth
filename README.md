@@ -5,7 +5,7 @@
 
 <H1 style="border-top: none;" > Nice to meet you, I'm Cheth! </H1>
 
-#### 🔗 check out my  dev site <a href="https://0xcheth.dev" target="_blank">here</a> !
+#### 🔗 check out my  dev site [here](https://0xcheth.dev) or my free astro website template [here](https://github.com/0xcheth/astrosite-template)
 
 </div>
 
