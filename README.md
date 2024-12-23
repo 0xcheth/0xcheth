@@ -6,10 +6,7 @@
 <H1 style="border-top: none;" > Nice to meet you, I'm Cheth! </H1>
 
 #### 🔗 check out my  dev site [here](https://0xcheth.dev) or my free astro website template [here](https://github.com/0xcheth/astrosite-template)
-<a href="https://ko-fi.com/0xcheth/" target="_blank">
-  <img width="160" src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a02fcf48af59c591185_support_me_on_kofi_dark-p-500.png" alt="Support me on Ko-fi">
-</a>
-</div>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T617S5JT)
 
 ## 🧙🏾‍♂️ About me: 
 
