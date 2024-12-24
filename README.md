@@ -71,4 +71,3 @@ Find me on linkedin or Instagram!
 #### Visitors
 ![](https://visitcount.itsvg.in/api?id=0xcheth&icon=7&color=12)
 </div>
-ps: the profile views are mostly bots 🐒
