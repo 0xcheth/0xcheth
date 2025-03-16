@@ -5,12 +5,12 @@
 
 <H1 style="border-top: none;" > Nice to meet you, I'm Cheth! </H1>
 
-#### 🔗 check out my  dev site [here](https://0xcheth.dev) or my free astro website template [here](https://github.com/0xcheth/astrosite-template)
+#### 🔗 check out my  personal site [here](https://0xcheth.com) or my astro website template [here](https://github.com/0xcheth/astrosite-template)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T617S5JT)
 
 ## 🧙🏾‍♂️ About me: 
 
-Geneticist in training (Bsc and ongoing my Masters 😳) with an avid interest in finding out why we age like we do and how to slow it down. 
+Geneticist in training (Bsc and ongoing Masters 😳) with an avid interest in finding out why we age like we do and how to slow it down. 
 
 Other than that I do a bit of coding as a hobby. Pretty jealous of my friends who managed to land software dev jobs straight out of uni though >:) 
 
